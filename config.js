@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['ArullBotzMD']
-global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
+global.namabot = ['CiciBotzMD']
+global.namaowner = ['JakaOfc']
+global.owner = ['6285785694474']
+global.premium = ['6285785694474']
 global.packname = 'Sticker By'
-global.author = 'ArullOfc'
+global.author = 'JakaOfc'
 global.sessionName = 'zxyn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -34,7 +34,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 2
 }
 global.thumb = fs.readFileSync('./lib/zxyn.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
